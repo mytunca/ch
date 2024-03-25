@@ -1,2 +1,6 @@
-# -
-Mac ile Windows arasında yaşanan Türkçe karakter uyumsuzluğunu ortaya koymaya çalışan bir repo.
+
+Bu normal olan:
+Ç
+
+Bu ise Mac'ten gelen:
+Ç
